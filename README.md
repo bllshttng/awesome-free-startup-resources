@@ -426,7 +426,6 @@ If you have another additional awesome free resource, please feel free to add it
 - [Miro](https://miro.com/): Your regular whiteboard, re-thought for the best online experience.
 - [Any.do](https://www.any.do/): Get things done with your team.
 - [Asana](https://asana.com/): Teamwork without email.
-
 - [GoToMeeting](https://www.goto.com/): Online meetings without the hassle.
 - [**Online Lists Maker**](https://onlinelistsmaker.com/): Free online list maker, create and share lists instantly with no signup.
 
