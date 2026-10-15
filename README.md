@@ -427,6 +427,7 @@ If you have another additional awesome free resource, please feel free to add it
 - [Any.do](https://www.any.do/): Get things done with your team.
 - [Asana](https://asana.com/): Teamwork without email.
 - [GoToMeeting](https://www.goto.com/): Online meetings without the hassle.
+- [**Online Lists Maker**](https://onlinelistsmaker.com/): Free online list maker, create and share lists instantly with no signup.
 
 # Digital Nomads and Remote Working
 - [**Founded X Startup Stats**](https://www.foundedx.com/stats): Find the best country to build your startup in.
