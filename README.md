@@ -232,6 +232,7 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Web3Canvas**](https://web3canvas.com/): PSD Freebies, HTML Snippets, Inspirations & Tutorials.
 - [**SketchAppResources**](https://www.sketchappsources.com/): Free graphical resources.
 - [**Placeit Freebies**](https://placeit.net/): Freebies delivered right to your Dropbox.
+- [**SFXMint**](https://sfxmint.com/): Free CC0 sound effects for apps and websites (clicks, notifications, success and error sounds), AI-generated or procedurally synthesized.
 
 # Color Pickers
 - [**Material Palette**](https://www.materialpalette.com/): Generate & export your Material Design color palette.
