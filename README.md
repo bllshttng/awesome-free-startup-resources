@@ -7,6 +7,7 @@ If you have another additional awesome free resource, please feel free to add it
 
 
 # Website
+- [**Icybiz**](https://icybiz.com/): Create and host a website visually without writing code; one basic published website remains free.
 - [**HTML5 UP**](https://html5up.net/): Responsive HTML5 and CSS3 site templates.
 - [**Bootswatch**](https://bootswatch.com/): Free themes for Bootstrap.
 - [**Templated**](https://templated.co/): A collection of 845 free CSS & HTML5 site templates.
