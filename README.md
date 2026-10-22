@@ -487,5 +487,6 @@ If you have another additional awesome free resource, please feel free to add it
 - [**HowMuchToMakeAnApp**](https://howmuchtomakeanapp.com/): Calculate the cost of a mobile application.
 - [**App vs. Website**](https://howmuchtomakeanapp.com/build-a-website-vs-app/): Should you build an app or website?
 - [**Pitcherific**](https://pitcherific.com/): Pitcherific helps you create, train, and improve your pitch.
+- [**vcfirmsdirectory.com**](https://vcfirmsdirectory.com/): Directory of 4,200 venture capital firms in 65 countries; free firm pages with register filings, offices and fund vehicles.
 - [**Startup Equity Calculator**](https://startupequity.io/): Figure out how much equity to grant new hires in seconds.
 - [**Picatic**](https://www.picatic.com/): Free event registration platform to host events.
