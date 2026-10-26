@@ -202,6 +202,7 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Free Survey Creator**](https://freesurveycreator.com/): Create a survey. Get user feedback for free.
 - [**Batch**](https://batch.com/): The first-ever 100% free engagement platform for mobile apps. A fully fledged mobile engagement platform to execute CRM tactics over iOS, Android, and mobile websites.
 - [**Helprace**](https://helprace.com/): Customer service tool. Free for up to 3 agents for small support teams.
+- [**WishKit**](https://www.wishkit.io/): In-app feature request board for iOS and web apps. Free plan for 1 project with unlimited users.
 
 # A/B Tests & Growth Hacking
 - [**Petit Hacks**](https://petithacks.com/): Acquisition, retention, & revenue hacks used by companies.
