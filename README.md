@@ -390,6 +390,7 @@ If you have another additional awesome free resource, please feel free to add it
 - [Loggly](https://www.loggly.com/): Simplify Log Management Forever. Free for one user.
 - [Getting Real](https://basecamp.com/books/getting-real): The smarter way to build web apps. A free book by 37signals.
 - [Cody](https://codyhouse.co/): A free library of HTML, CSS, JS nuggets.
+- [CurlShot](https://curlshot.com/): Screenshot API that turns a URL, HTML or Markdown into an image, PDF or video. Free plan with 100 screenshots a month, no card.
 
 # Background Sounds to Focus
 - [**Noisli**](https://www.noisli.com/): Background noise & color generator.
