@@ -194,6 +194,7 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Sumome Share**](https://sumome.com/app/share): Auto-optimizes your share buttons for max traffic.
 - [**Digg Digg**](https://wordpress.org/plugins/digg-digg/installation/): Your all in one share buttons plugin.
 - [**Disqus**](https://disqus.com/): Build a community of active readers & commenters.
+- [**UpGrow Instagram Tools**](https://www.upgrow.com/free-instagram-tools): Free engagement calculator, hashtag generator and influencer search for Instagram.
 
 
 # Customer Service & Surveys
