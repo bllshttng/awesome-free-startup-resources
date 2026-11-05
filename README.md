@@ -189,6 +189,7 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Social Analytics**](https://chrome.google.com/webstore/detail/social-analytics/pgckigmaefoaemjpijdepakcghjkggmg/related): Interactions for a URL on most social platforms.
 - [**Riffle**](https://crowdriff.com/riffle/): Full profile and info on any Twitter user.
 - [**Buffer Free Plan**](https://bufferapp.com/): Schedule posts to Twitter, Facebook, LinkedIn, Google+.
+- [**OpenSparta**](https://opensparta.com/en): Telegram workspace for managing account operations, researching relevant community conversations, and identifying buying-signal discussions. Account and proxy tools are free for up to 50 connected accounts; paid modules add more.
 - [**Bitly**](https://bitly.com/): Create, share, and track shortened links.Filament: A free beautiful and customizable sharing bar.
 - [**Addthis**](https://www.addthis.com/): Get more shares, follows and conversions.
 - [**Sumome Share**](https://sumome.com/app/share): Auto-optimizes your share buttons for max traffic.
