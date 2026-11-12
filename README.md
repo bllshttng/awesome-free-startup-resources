@@ -161,6 +161,7 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Canned Emails**](http://www.cannedemails.com/): A minimal site with prewritten emails.
 - [**Streak**](https://www.streak.com/) - Track if someone opened your emails. Especially useful if you're doing sales or outreach. Also adds a CRM to Gmail.
 - [**Really Good Emails**](https://reallygoodemails.com/) - Superb for designed email inspiration. Welcome emails, sales emails, the whole works.
+- [**They Sent It**](https://theysentit.com/) - Free searchable archive of 2.5 million marketing emails from 75,000 brands. See what any brand sends, how often, and on which email platform.
 - [**Gmass**](https://www.gmass.co) - Send mass emails in Gmail (up to 2000 emails/day). Gmail = way better deliverability than using an email marketing platform. Link it to a spreadsheet to personalize names and phrases for every contact.
 - [**Art of Emails**](https://artofemails.com/) - Tons of actually unique email templates for cold emails, outreach to influencers, sales follow ups, etc.
 
