@@ -489,3 +489,4 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Pitcherific**](https://pitcherific.com/): Pitcherific helps you create, train, and improve your pitch.
 - [**Startup Equity Calculator**](https://startupequity.io/): Figure out how much equity to grant new hires in seconds.
 - [**Picatic**](https://www.picatic.com/): Free event registration platform to host events.
+- [**No Stairs Please**](https://nostairsplease.com/): Free searchable directory of 11,400+ under-400-capacity live music venues across the US, DC, and British Columbia.
