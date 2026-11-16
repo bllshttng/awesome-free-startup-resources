@@ -484,6 +484,7 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Foundrs**](https://foundrs.com/): Co-founder equity calculator.
 - [**Ad Spend Calculator**](https://ad-spend-calculator.qwilr.com/): Should my startup pay to advertise?
 - [**Calcmatic**](https://calcmatic.app): Free calculators for ecommerce profit, payment processing fees, shipping costs, and personal finance.
+- [**SmartBizCalc**](https://smartbizcalc.com/): 700+ free US small business calculators — self-employment tax, payroll, 1099 vs W-2, break-even analysis, contractor pricing, LLC vs S-Corp, startup cost estimates, and more. No sign-up required.
 - [**HowMuchToMakeAnApp**](https://howmuchtomakeanapp.com/): Calculate the cost of a mobile application.
 - [**App vs. Website**](https://howmuchtomakeanapp.com/build-a-website-vs-app/): Should you build an app or website?
 - [**Pitcherific**](https://pitcherific.com/): Pitcherific helps you create, train, and improve your pitch.
