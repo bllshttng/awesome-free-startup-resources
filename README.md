@@ -163,6 +163,7 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Really Good Emails**](https://reallygoodemails.com/) - Superb for designed email inspiration. Welcome emails, sales emails, the whole works.
 - [**Gmass**](https://www.gmass.co) - Send mass emails in Gmail (up to 2000 emails/day). Gmail = way better deliverability than using an email marketing platform. Link it to a spreadsheet to personalize names and phrases for every contact.
 - [**Art of Emails**](https://artofemails.com/) - Tons of actually unique email templates for cold emails, outreach to influencers, sales follow ups, etc.
+- [**FairValid**](https://fairvalid.com/): Email verification and bulk CSV list cleaning with 300 free credits each month, shared with work-email search. Account required; paid credits are optional.
 
 # Guides and Courses
 - Primer: No-nonsense, jargon-free marketing lessons (by Google).
