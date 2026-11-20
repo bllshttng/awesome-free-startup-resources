@@ -144,6 +144,7 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Recite**](httsp://www.recitethis.com/): Turn a quote into a visual masterpiece.
 - [**Meme Generator**](https://memegenerator.net/): The first online meme generator.
 - [**Pablo**](https://pablo.buffer.com/): Design engaging images for your social media posts in under 30 seconds.
+- [**PixelArtHive**](https://pixelarthive.com/): Convert images to pixel art and upscale pixel graphics locally in the browser for free.
 
 # Email Management
 - [**Contact form 7**](https://wordpress.org/plugins/contact-form-7/): Famous WordPress plugin to collect email addresses.
