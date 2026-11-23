@@ -45,6 +45,7 @@ If you have another additional awesome free resource, please feel free to add it
 - [**The Name App**](https://thenameapp.com/): Find an available name for your brilliant idea.
 - [**Naminum**](https://www.naminum.com/): Discover a perfect company name.
 - [**Short Domain Search**](https://shortdomainsearch.com/): Find short, available single-word domain names.
+- [**BrandShield**](https://brand-checker.appwrite.network): 100% free startup name, 78+ TLD direct IANA RDAP availability, live USPTO trademark search, 28-variant typosquatting check, and AI Brand Namer with zero signup.
 - [**Wordoid**](https://wordoid.com/): Pick a short and catchy name for your business.
 - [**Hipster Business Name**](https://www.hipsterbusiness.name/): Hipster business name generator.
 - [**Impossibility**](https://impossibility.org/): The best domain name generator ever.
