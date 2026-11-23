@@ -368,6 +368,7 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Copy Paste Character**](https://copypastecharacter.com/): Click to copy.
 - [**Window Resizer**](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh/details?hl=en): See how it looks on various screen resolutions.
 - [**Tshirt designs**](https://www.tshirtdesigns.com/mockups): You can upload your own mockups files or choose one from our directory, and adap any design to the mockup builder to create realistic and ready to use mockups for your POD business.
+- [**Mode VC**](https://modevc.com/tools/): Free startup calculators (SAFE dilution, 409A, 83(b), venture debt) and a searchable directory of venture capital firms and intake forms ([modevc.com/investors/](https://modevc.com/investors/)).
 
 # Developer & Code Related
 - [Abstract APIs](https://www.abstractapi.com/): Suite of APIs for everyday use cases (email validation, VAT calculation, IP geolocation, and more)
