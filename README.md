@@ -368,6 +368,7 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Copy Paste Character**](https://copypastecharacter.com/): Click to copy.
 - [**Window Resizer**](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh/details?hl=en): See how it looks on various screen resolutions.
 - [**Tshirt designs**](https://www.tshirtdesigns.com/mockups): You can upload your own mockups files or choose one from our directory, and adap any design to the mockup builder to create realistic and ready to use mockups for your POD business.
+- [Public Records MCP](https://github.com/GeminiGeorge22/publicrecords-mcp): 18 Apify-hosted MCP servers for public data: SAM.gov, Grants.gov, USAspending, EU TED and UK tenders, city council meetings, Ashby/Greenhouse/Lever/SmartRecruiters jobs, company social links, Google Ads Transparency, Etsy sales, sports odds, Spotify play counts.
 
 # Developer & Code Related
 - [Abstract APIs](https://www.abstractapi.com/): Suite of APIs for everyday use cases (email validation, VAT calculation, IP geolocation, and more)
