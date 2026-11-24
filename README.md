@@ -273,6 +273,7 @@ If you have another additional awesome free resource, please feel free to add it
 - [**UI Parade**](https://www.uiparade.com/): User interface design tools and design inspiration.
 - [**The Best Designs**](https://www.thebestdesigns.com/): The best of web design.Agile Designers: Best resources for designers & developers.
 - [**Niice**](https://niice.co/): A search engine with taste.
+- [**A1 Gallery**](https://www.a1.gallery/): Hand-picked gallery of real websites, with the fonts and colours each one uses.
 
 # Stock Photography
 - [**Stock Up**](https://www.sitebuilderreport.com/stock-up): Best free stock photo websites in one place.
