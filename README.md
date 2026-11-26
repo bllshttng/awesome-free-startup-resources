@@ -56,7 +56,7 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Grammarly**](https://free.grammarly.com/): Finds & corrects mistakes of your writing.Medium: Everyone’s stories and ideas.
 - [**Medium**](https://medium.com/): Everyone’s stories and ideas.
 - [**ZenPen**](https://www.zenpen.io/): The minimal writing tool of web.
-- [**Liberio**](https://liber.io/): Simple eBook creation and publishing right from Google Drive.
+
 - [**Editorial Calendar**](https://wordpress.org/plugins/editorial-calendar/): See all your posts, drag & drop to manage your blog.
 - [**Story Wars**](https://www.storywars.net/): Writing stories together.
 - [**Headline Analyzer**](https://www.aminstitute.com/headline/): Emotional marketing value headline analyzer.
@@ -152,7 +152,7 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Hello Bar**](https://hellobar.com/): Get more email subscribers.
 - [**Sumome List Builder**](https://sumome.com/app/list-builder): Collect email addresses with light box popover.
 - [**Scroll Triggered Box**](https://wordpress.org/plugins/dreamgrow-scroll-triggered-box/): Boost your conversion rates — WordPress only.
-- [**Sumome Scroll Box**](https://sumome.com/app/scroll-box): Capture more email addresses, politely.
+
 - [**Mailgun**](https://www.mailgun.com/): The Email Service For Developers. Free 10K emails/month.
 - [**Sendgrid**](https://www.sendgrid.com/): Delivers your transactional and marketing email. Free 12K emails/month (Now owned by Twilio)
 - [**Sendinblue**](https://www.sendinblue.com/): Free 9K emails/month.
@@ -184,7 +184,7 @@ If you have another additional awesome free resource, please feel free to add it
 - How Many Shares Count: how many shares a URL has across most social networks, all in one place.
 - [**Justunfollow**](https://www.justunfollow.com/): Follow / unfollow people on Twitter & Instagram.
 - [**SocialRank**](https://www.socialrank.com/): Identify, organize, and manage your followers on Twitter.
-- [**Klout**](https://blog.klout.com/2014/06/klout-browser-extensions/): Social media influence score on browser extension.
+
 - [**Ritetag**](https://ritetag.com/hashtag-academy/ritetag-browser-extensions-scheduling-productivity): Instant hashtag analysis.
 - [**Social Analytics**](https://chrome.google.com/webstore/detail/social-analytics/pgckigmaefoaemjpijdepakcghjkggmg/related): Interactions for a URL on most social platforms.
 - [**Riffle**](https://crowdriff.com/riffle/): Full profile and info on any Twitter user.
@@ -222,7 +222,7 @@ If you have another additional awesome free resource, please feel free to add it
 - [**365 Psd**](https://365psd.com/): Download a free psd every day.
 - [**Dbf**](https://dbfreebies.co/): Dribbble & Behance best design freebies.
 - [**Marvel**](https://marvelapp.com/resources/): Free resources from designers we love.
-- [**UI Space**](https://uispace.net/): High quality hand-crafted Freebies for awesome people.
+
 - [**Free Section of Pixeden**](https://www.pixeden.com/free-design-web-resources): Free design resources.
 - [**Free Section of Creative Market**](https://creativemarket.com/free-goods): Freebies coming out every Monday.
 - [**Teehan+Lax**](https://www.teehanlax.com/tools/iphone/): iOS 8 GUI PSD (iPhone 6).Teehan+Lax: iPad GUI PSD.
@@ -293,7 +293,7 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Super Famous**](https://superfamous.com/): Photos by Dutch interaction designer Folkert Gorter.
 - [**Picography**](https://picography.co/): Free hi-resolution photos.
 - [**Magdeleine**](https://magdeleine.co/): A free high-resolution photo every day.
-- [**Snapographic**](https://snapographic.com/): Free stock photos for personal & commercial use.
+
 - [**Little Visuals**](https://littlevisuals.co/): 7 hi-res images in your inbox every 7 days.
 - [**Splitshire**](https://splitshire.com/): Delicious free stock photos.
 - [**New Old Stock**](https://nos.twnsnd.co/): Vintage photos from the public archives.
@@ -301,12 +301,12 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Life of Pix**](https://www.lifeofpix.com/): Free high-resolution photos.
 - [**Gratisography**](https://www.gratisography.com/): Free high-resolution photos.
 - [**Getrefe**](https://getrefe.com/downloads/category/free/): Free photos.
-- [**IM Free**](https://www.imcreator.com/free): A curated collection of free resources.
+
 - [**Cupcake**](https://cupcake.nilssonlee.se/): A photographer’s treat by Jonas Nilsson Lee.
 - [**The Pattern Library**](https://thepatternlibrary.com/): Free patterns for your projects.
 - [**Public Domain Archive**](https://publicdomainarchive.com/): New 100% free stock photos.
 - [**ISO Republic**](https://isorepublic.com/): High-quality, free photos for creatives.
-- [**Stokpic**](https://stokpic.com/): Totally free photos.
+
 - [**Kaboompics**](https://kaboompics.com/): The best way to get free photos.
 - [**Function**](https://wefunction.com/category/free-photos/): Free photo packs.
 - [**MMT**](https://mmt.li/): Free stock photos by Jeffrey Betts.
@@ -332,7 +332,7 @@ If you have another additional awesome free resource, please feel free to add it
 - [**TypeGenius**](https://www.typegenius.com/): Find the perfect font combo for your next project.
 - [**Font Squirrel**](https://www.fontsquirrel.com/): 100% free commercial fonts.
 - [**FontFaceNinja**](https://www.fontface.ninja/): Browser extension to find the web fonts a site uses.
-- [**Google Fonts**](https://www.google.com/fonts): Free, open-source fonts optimized for the web.Beautiful Web Type: Best typefaces from the Google web fonts directory.
+
 - [**DaFont**](https://www.dafont.com/): Archive of freely downloadable fonts.1001 Free Fonts: A huge selection of free fonts.
 - [**FontPark**](https://www.fontpark.net/en/): The web’s largest archive of free fonts.
 - [**Font-to-width**](https://font-to-width.com/): Fit pieces of text snugly within their containers.
@@ -343,7 +343,7 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Fontello**](https://fontello.com/): Icon fonts generator.
 - [**Flat Icon**](https://www.flaticon.com/): A search engine for 16000+ glyph vector icons.
 - [**Material Design Icons**](https://github.com/google/material-design-icons/releases/tag/1.0.0): 750 Free open-source glyphs by Google
-- [**Font Awesome**](https://fortawesome.github.io/Font-Awesome/): The iconic font and CSS toolkit
+
 - [**Glyphsearch**](https://glyphsearch.com/): Search for icons from other icon databases
 - [**MakeAppIcon**](https://makeappicon.com/): Generate App Icons of all sizes with a click
 - [**Endless Icons**](https://www.endlessicons.com/): Free flat icons and creative stuff.
@@ -399,7 +399,7 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Coffitivity**](https://coffitivity.com/): Stream the sounds of a coffee shop at work.
 - [**Octave**](https://raisedbeaches.com/octave/): A free library of UI sounds, handmade for iOS.
 - Free Sound: Huge database of free audio snippets, samples, + recordings.
-- [**Sonics**](https://www.sonics.io/): Free packs of UI sounds and sound effects delivered to your inbox every month.
+
 - Deep Focus: Spotify’s famous playlist to focus.
 - [**The Ultimate Background Noise Generator**](https://mynoise.net/NoiseMachines/cafeRestaurantNoiseGenerator.php): Free BG sounds from a coffee shop to music to tones designed to help you focus.
 
@@ -419,7 +419,7 @@ If you have another additional awesome free resource, please feel free to add it
 - [**List.ly**](https://list.ly/): Discover and create great lists.
 - [**Markticle**](https://markticle.com/): Mark your reading progress in articles for later.
 - [Raindrop](https://raindrop.io/): Mac app for bookmarking and reading it later.
-- [Flowdock](https://www.flowdock.com/): Free for teams of five and non-profits.
+
 - [Typetalk](https://www.typetalk.com/): Share and discuss ideas with your team through instant messaging.
 - [Slack](https://slack.com/): Free for unlimited users with few limited features.
 - [FreeBusy](https://freebusy.io/en): Eliminate coordination headaches when you need to schedule a meeting.
@@ -429,7 +429,7 @@ If you have another additional awesome free resource, please feel free to add it
 - [GoToMeeting](https://www.goto.com/): Online meetings without the hassle.
 
 # Digital Nomads and Remote Working
-- [**Founded X Startup Stats**](https://www.foundedx.com/stats): Find the best country to build your startup in.
+
 - [**Teleport**](https://teleport.org/): Startup Cities: Discover and budget your next move to 100+ startup cities.
 - [**Nomad House**](https://nomadhouse.io/): Houses around the world for nomads to live and work together.
 - [**Workfrom**](https://workfrom.co/): Coffee, Wi-Fi and good vibes.
@@ -450,16 +450,18 @@ If you have another additional awesome free resource, please feel free to add it
 # Build Together
 - [**Assembly**](https://assembly.com/discover): Co-create new ideas no matter where they are.
 - [**CoFoundersLab**](https://www.cofounderslab.com/): Find a co-founder in any city, any industry.
-- [**Founder2be**](https://www.founder2be.com/): Find a co-founder for your startup.
+
 
 # Learn
 - [**Skillshare**](https://www.skillshare.com/): Unlock your creativity with free online classes & projects.
 - [**Khan Academy**](https://www.khanacademy.org/): Free, world-class education for anyone, anywhere.
 - [**Coursera**](https://www.coursera.org/): Free online classes from 80+ top universities & organizations.
+- [**Swavent Guides**](https://swavent.com/en/guides): Free Shopify, ecommerce, SEO and web development guides.
 - [**Codecademy**](https://www.codecademy.com/): Learn to code interactively, for free.
-- **How to start a startup**: [As an Audio Podcast](https://itunes.apple.com/us/podcast/how-to-start-a-startup/id922398209?mt=2): or [As Online Course](https://startupclass.co/)
+
 - [**Startup Notes**](https://startupnotes.org/): Startup School invites amazing founders to tell their story.
 - [**The How**](https://how.co/): Learn from entrepreneurs.
+- 
 - [**Launch This Year**](https://launchthisyear.com/): Guide to help you launch your online business.
 - [**Closed Club**](https://closedclub.co/): Browse shut-down start-ups & learn why they closed down.
 - [**Startup Talks**](https://startuptalks.tv/): A curated collection of startup related videos.
