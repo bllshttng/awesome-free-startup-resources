@@ -24,7 +24,6 @@ If you have another additional awesome free resource, please feel free to add it
 
 # Invoice
 - [**Invoice to me**](https://invoiceto.me/): Free Invoice Generator.
-- [**Free Invoice Generator**](https://www.free-invoice-generator.com/): Alternative free invoice generator.
 - [**Slimvoice**](https://slimvoice.co/): Insanely simple invoices.
 - [**Wave**](https://www.waveapps.com): Free & easy accounting, invoicing and more.
 - [**Invoice.to**](https://invoice.to/): Free invoice generator.
@@ -36,17 +35,13 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Shake**](https://www.shakelaw.com/): Create, sign and send legally binding agreements in seconds. Free for personal use.
 
 # Idea Management
-- [**CompanyCraft**](https://www.companycraft.ai): Use AI to generate, analyze, research, and filter startup ideas. Free for most features.
 - [**Experiment Board**](https://www.leanstartupmachine.com/validationboard/): Test your startup idea without wasting time or money. Note: Requires a tweet to get it.
 - [**Skitch**](https://evernote.com/products/skitch): Your ideas become reality faster.
 
 # Business / Project Name Generator
-- [**The Business Niches Generator**](https://www.nichegenerator.xyz/): Generate business niches rather than business ideas.
-- [**The Name App**](https://thenameapp.com/): Find an available name for your brilliant idea.
 - [**Naminum**](https://www.naminum.com/): Discover a perfect company name.
 - [**Short Domain Search**](https://shortdomainsearch.com/): Find short, available single-word domain names.
 - [**Wordoid**](https://wordoid.com/): Pick a short and catchy name for your business.
-- [**Hipster Business Name**](https://www.hipsterbusiness.name/): Hipster business name generator.
 - [**Impossibility**](https://impossibility.org/): The best domain name generator ever.
 - [**Lean Domain Search**](https://www.leandomainsearch.com/): Find a domain name for your website in seconds.
 - [**Domainr**](https://domainr.com/): Fast, free, domain name search, short URLs.
@@ -58,7 +53,6 @@ If you have another additional awesome free resource, please feel free to add it
 - [**ZenPen**](https://www.zenpen.io/): The minimal writing tool of web.
 - [**Liberio**](https://liber.io/): Simple eBook creation and publishing right from Google Drive.
 - [**Editorial Calendar**](https://wordpress.org/plugins/editorial-calendar/): See all your posts, drag & drop to manage your blog.
-- [**Story Wars**](https://www.storywars.net/): Writing stories together.
 - [**Headline Analyzer**](https://www.aminstitute.com/headline/): Emotional marketing value headline analyzer.
 - [**WP Hide Post**](https://wordpress.org/plugins/wp-hide-post/): Control the visibility of items on your blog.
 - [**Social Locker**](https://wordpress.org/plugins/social-locker/): Ask visitors “to pay” for your content with a tweet, etc.
@@ -175,11 +169,9 @@ If you have another additional awesome free resource, please feel free to add it
 - FirstSiteGuide: The beginner’s guide to successful blogging.
 
 # Social Media + Community Management
-- [**WriteRack**](https://writerack.com/): The best way to tweetstorm.
 - [**Spruce**](https://www.tryspruce.com/): Make Twitter ready images in seconds.
 - [**Click To Tweet**](https://coschedule.com/click-to-tweet): Get more shares on your content.
 - [**MyTweetLinks**](https://mytweetlinks.com/): Increases Twitter traffic.
-- [**Latergram**](https://www.latergram.me/)** Easily plan & schedule your Instagram posts.WordPress Pin it Button for Images: Add a “Pin It” button.
 - [**SharedCount**](https://www.sharedcount.com/): Track URL shares, likes, tweets, and more.
 - How Many Shares Count: how many shares a URL has across most social networks, all in one place.
 - [**Justunfollow**](https://www.justunfollow.com/): Follow / unfollow people on Twitter & Instagram.
@@ -198,7 +190,6 @@ If you have another additional awesome free resource, please feel free to add it
 
 # Customer Service & Surveys
 - [**Typeform**](https://www.typeform.com/): Free beautiful online survey & form builder.
-- [**TallySpace**](https://www.tallyspace.com/): Create polls in no time.
 - [**Free Survey Creator**](https://freesurveycreator.com/): Create a survey. Get user feedback for free.
 - [**Batch**](https://batch.com/): The first-ever 100% free engagement platform for mobile apps. A fully fledged mobile engagement platform to execute CRM tactics over iOS, Android, and mobile websites.
 - [**Helprace**](https://helprace.com/): Customer service tool. Free for up to 3 agents for small support teams.
@@ -219,8 +210,6 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Premium Pixels**](https://www.premiumpixels.com/): Free Stuff for Creative Folk.
 - [**Fribbble**](https://fribbble.com/): Free PSD resources by Dribbblers curated by Gilbert Pellegrom.
 - [**Freebiesbug**](https://freebiesbug.com/): Latest free PSDs & other resources for designers.
-- [**365 Psd**](https://365psd.com/): Download a free psd every day.
-- [**Dbf**](https://dbfreebies.co/): Dribbble & Behance best design freebies.
 - [**Marvel**](https://marvelapp.com/resources/): Free resources from designers we love.
 - [**UI Space**](https://uispace.net/): High quality hand-crafted Freebies for awesome people.
 - [**Free Section of Pixeden**](https://www.pixeden.com/free-design-web-resources): Free design resources.
@@ -248,7 +237,6 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Adobe Color CC**](https://color.adobe.com/create/color-wheel/): Color combinations from the Kuler community.
 - [**Bootflat**](https://bootflat.github.io/color-picker.html): Perfect colors for flat designs.
 - [**Hex Colorrrs**](https://hex.colorrrs.com/): Hex to RGB converter.
-- [**Get UI Colors**](https://getuicolors.com/): Get awesome UI colors.
 - [**Coleure**](https://www.coleure.com/): Smart color picker.
 - [**Colllor**](https://colllor.com/): Color palette generator.
 - [**Palette for Chrome**](https://chrome.google.com/webstore/detail/palette-for-chrome/oolpphfmdmjbojolagcbgdemojhcnlod): Creates a color palette from any image.
@@ -258,7 +246,6 @@ If you have another additional awesome free resource, please feel free to add it
 - [**MaterialUp**](https://www.materialup.com/): Daily material design inspiration.
 - [**FLTDSGN**](https://fltdsgn.com/): Daily showcase of the best flat UI design websites and apps.
 - [**Site Inspire**](https://www.siteinspire.com/): Web design inspiration.
-- [**UI Cloud**](https://ui-cloud.com/): The largest user interface design database in the world.
 - [**Moodboard**](https://www.gomoodboard.com/): Build a beautiful moodboard and share the result.
 - [**Crayon**](https://www.crayon.co/): The most comprehensive collection of marketing designs.
 - [**Land-Book**](https://land-book.com/): Product landing pages gallery.
@@ -268,7 +255,6 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Pttrns**](https://www.pttrns.com/): Mobile user interface patterns.
 - [**Flat UI Design**](https://www.pinterest.com/warmarc/flat-ui-design/): Useful Pinterest board.
 - [**Awwwards**](https://www.awwwards.com/): The awards for design, creativity and innovation.
-- [**The Starter Kit**](https://www.thestarterkit.info/): Curated resources for developers and designers.
 - [**One Page Love**](https://onepagelove.com/): Resource for one-page website inspiration.
 - [**UI Parade**](https://www.uiparade.com/): User interface design tools and design inspiration.
 - [**The Best Designs**](https://www.thebestdesigns.com/): The best of web design.Agile Designers: Best resources for designers & developers.
@@ -308,7 +294,6 @@ If you have another additional awesome free resource, please feel free to add it
 - [**ISO Republic**](https://isorepublic.com/): High-quality, free photos for creatives.
 - [**Stokpic**](https://stokpic.com/): Totally free photos.
 - [**Kaboompics**](https://kaboompics.com/): The best way to get free photos.
-- [**Function**](https://wefunction.com/category/free-photos/): Free photo packs.
 - [**MMT**](https://mmt.li/): Free stock photos by Jeffrey Betts.
 - [**Paul Jarvis**](https://pjrvs.com/a/photos): Free high-resolution photos.
 - [**Lock & Stock Photos**](https://lockandstockphotos.com/): Free stock photos for you.
@@ -317,7 +302,6 @@ If you have another additional awesome free resource, please feel free to add it
 - [StockSnap](https://stocksnap.io/): Beautiful free stock photos.
 - [Free Nature Stock](https://freenaturestock.com/): Royalty-free Nature Stock Photos. Use them however you want.
 - Others:
-  - [**Free Digital Photos**](https://www.freedigitalphotos.net/): 
   - [**Morguefile**](https://morguefile.com/)
   - [**Public Domain Pictures**](https://www.publicdomainpictures.net/)
   - [**Stockvault**](https://www.stockvault.net/)
@@ -335,7 +319,6 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Google Fonts**](https://www.google.com/fonts): Free, open-source fonts optimized for the web.Beautiful Web Type: Best typefaces from the Google web fonts directory.
 - [**DaFont**](https://www.dafont.com/): Archive of freely downloadable fonts.1001 Free Fonts: A huge selection of free fonts.
 - [**FontPark**](https://www.fontpark.net/en/): The web’s largest archive of free fonts.
-- [**Font-to-width**](https://font-to-width.com/): Fit pieces of text snugly within their containers.
 - [**Adobe Fonts**](https://fonts.adobe.com/): The free, easy way to get started with web fonts.
 - [Typekit](https://practice.typekit.com/): A limited collection of fonts to use on a website or in applications.
 
@@ -434,9 +417,7 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Nomad House**](https://nomadhouse.io/): Houses around the world for nomads to live and work together.
 - [**Workfrom**](https://workfrom.co/): Coffee, Wi-Fi and good vibes.
 - [**Nomadlist**](https://nomadli.st/): The best cities to live and work remotely.
-- [**Where Nomads at**](https://where-my-nomads.at/): Find digital nomads & travelers all around the world.
 - [**Nomad Jobs**](https://nomadjobs.com/): The best remote jobs at the best startups.
-- [**What’s It Like**](https://www.whatsitlikeapp.com/): Helping travelers figure out WHEN to go.
 - [**arbeitnow**](https://arbeitnow.com): Remote jobs board
 
 # Discover Tools & Startups
@@ -458,13 +439,8 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Coursera**](https://www.coursera.org/): Free online classes from 80+ top universities & organizations.
 - [**Codecademy**](https://www.codecademy.com/): Learn to code interactively, for free.
 - **How to start a startup**: [As an Audio Podcast](https://itunes.apple.com/us/podcast/how-to-start-a-startup/id922398209?mt=2): or [As Online Course](https://startupclass.co/)
-- [**Startup Notes**](https://startupnotes.org/): Startup School invites amazing founders to tell their story.
 - [**The How**](https://how.co/): Learn from entrepreneurs.
-- [**Launch This Year**](https://launchthisyear.com/): Guide to help you launch your online business.
 - [**Closed Club**](https://closedclub.co/): Browse shut-down start-ups & learn why they closed down.
-- [**Startup Talks**](https://startuptalks.tv/): A curated collection of startup related videos.
-- [**Rocketship.fm**](https://rocketship.fm/): Learn from successful entrepreneurs each week.
-- [**reSRC.io**](https://resrc.io/): All free programming learning resources.
 - [**The Lean LaunchPad**](https://www.udacity.com/course/how-to-build-a-startup--ep245): How to Build a Startup.
 - [**Mixergy**](https://mixergy.com/): Learn from proven entrepreneurs.
 - [**Hack Design**](https://hackdesign.org/): Receive a design lesson in your inbox each week.
@@ -488,4 +464,3 @@ If you have another additional awesome free resource, please feel free to add it
 - [**App vs. Website**](https://howmuchtomakeanapp.com/build-a-website-vs-app/): Should you build an app or website?
 - [**Pitcherific**](https://pitcherific.com/): Pitcherific helps you create, train, and improve your pitch.
 - [**Startup Equity Calculator**](https://startupequity.io/): Figure out how much equity to grant new hires in seconds.
-- [**Picatic**](https://www.picatic.com/): Free event registration platform to host events.
