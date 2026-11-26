@@ -447,7 +447,6 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Codecademy**](https://www.codecademy.com/): Learn to code interactively, for free.
 - [**Startup Notes**](https://startupnotes.org/): Startup School invites amazing founders to tell their story.
 - [**The How**](https://how.co/): Learn from entrepreneurs.
-- 
 - [**Launch This Year**](https://launchthisyear.com/): Guide to help you launch your online business.
 - [**Closed Club**](https://closedclub.co/): Browse shut-down start-ups & learn why they closed down.
 - [**Startup Talks**](https://startuptalks.tv/): A curated collection of startup related videos.
