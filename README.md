@@ -25,7 +25,7 @@ If you have another additional awesome free resource, please feel free to add it
 # Invoice
 - [**Invoice to me**](https://invoiceto.me/): Free Invoice Generator.
 - [**Free Invoice Generator**](https://www.free-invoice-generator.com/): Alternative free invoice generator.
-- [**Slimvoice**](https://slimvoice.co/): Insanely simple invoices.
+- [**Kitovo**](https://www.kitovo.app/receipt-generator/): Free receipt and invoice generator. No signup, PDF download.
 - [**Wave**](https://www.waveapps.com): Free & easy accounting, invoicing and more.
 - [**Invoice.to**](https://invoice.to/): Free invoice generator.
 - [**Bonsai**](https://www.hellobonsai.com/): Invoices, online payments, expenses, and more.
