@@ -41,7 +41,9 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Skitch**](https://evernote.com/products/skitch): Your ideas become reality faster.
 - [**Mom Test Question Checker**](https://nar-vardanyan.github.io/frank-mcp/tools/mom-test-checker/): Check customer interview questions against The Mom Test principles and flag leading, hypothetical or compliment-seeking wording. Free, no login, runs in the browser.
 - [**JTBD Switch Interview Question Generator**](https://nar-vardanyan.github.io/frank-mcp/tools/jtbd-interview-question-generator/): Build a Jobs to Be Done switch interview guide, with probes tagged push, pull, anxiety or habit. Free, no login, runs in the browser.
+- [**Customer Interview Question Bank**](https://nar-vardanyan.github.io/frank-mcp/tools/customer-interview-question-bank/): Open, non-leading customer interview questions you can filter by goal and stage, then copy as a guide with follow-ups. Free, no login, runs in the browser.
 - [**Customer Interview Sample Size Planner**](https://nar-vardanyan.github.io/frank-mcp/tools/customer-interview-sample-size-planner/): Get a guidance range for how many customer interviews to run per segment, based on your goal, from four published saturation studies. Free, no login, runs in the browser.
+- [**Customer Interview Summary Template**](https://nar-vardanyan.github.io/frank-mcp/tools/customer-interview-summary-template/): Turns pasted interview notes into a one-page summary with insights, quotes, open questions and next steps. Free, no login, runs in the browser.
 
 # Business / Project Name Generator
 - [**The Business Niches Generator**](https://www.nichegenerator.xyz/): Generate business niches rather than business ideas.
