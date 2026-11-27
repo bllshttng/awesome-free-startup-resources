@@ -29,6 +29,7 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Wave**](https://www.waveapps.com): Free & easy accounting, invoicing and more.
 - [**Invoice.to**](https://invoice.to/): Free invoice generator.
 - [**Bonsai**](https://www.hellobonsai.com/): Invoices, online payments, expenses, and more.
+- [**Billsmith**](https://billsmith.app/): Free invoice, estimate and receipt generator, no sign-up. PDF or Word download, built in the browser.
 
 # Legal Docs
 - [**Kiss**](https://500.co/kiss/): Free legal docs for startup founders and investor, created by 500 Startups.
