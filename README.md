@@ -39,6 +39,11 @@ If you have another additional awesome free resource, please feel free to add it
 - [**CompanyCraft**](https://www.companycraft.ai): Use AI to generate, analyze, research, and filter startup ideas. Free for most features.
 - [**Experiment Board**](https://www.leanstartupmachine.com/validationboard/): Test your startup idea without wasting time or money. Note: Requires a tweet to get it.
 - [**Skitch**](https://evernote.com/products/skitch): Your ideas become reality faster.
+- [**Mom Test Question Checker**](https://nar-vardanyan.github.io/frank-mcp/tools/mom-test-checker/): Check customer interview questions against The Mom Test principles and flag leading, hypothetical or compliment-seeking wording. Free, no login, runs in the browser.
+- [**JTBD Switch Interview Question Generator**](https://nar-vardanyan.github.io/frank-mcp/tools/jtbd-interview-question-generator/): Build a Jobs to Be Done switch interview guide, with probes tagged push, pull, anxiety or habit. Free, no login, runs in the browser.
+- [**Customer Interview Question Bank**](https://nar-vardanyan.github.io/frank-mcp/tools/customer-interview-question-bank/): Open, non-leading customer interview questions you can filter by goal and stage, then copy as a guide with follow-ups. Free, no login, runs in the browser.
+- [**Customer Interview Sample Size Planner**](https://nar-vardanyan.github.io/frank-mcp/tools/customer-interview-sample-size-planner/): Get a guidance range for how many customer interviews to run per segment, based on your goal, from four published saturation studies. Free, no login, runs in the browser.
+- [**Customer Interview Summary Template**](https://nar-vardanyan.github.io/frank-mcp/tools/customer-interview-summary-template/): Turns pasted interview notes into a one-page summary with insights, quotes, open questions and next steps. Free, no login, runs in the browser.
 
 # Business / Project Name Generator
 - [**The Business Niches Generator**](https://www.nichegenerator.xyz/): Generate business niches rather than business ideas.
@@ -202,6 +207,8 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Free Survey Creator**](https://freesurveycreator.com/): Create a survey. Get user feedback for free.
 - [**Batch**](https://batch.com/): The first-ever 100% free engagement platform for mobile apps. A fully fledged mobile engagement platform to execute CRM tactics over iOS, Android, and mobile websites.
 - [**Helprace**](https://helprace.com/): Customer service tool. Free for up to 3 agents for small support teams.
+- [**Cancel-Page Churn Survey Widget**](https://nar-vardanyan.github.io/frank-mcp/tools/churn-interview-widget/): A free, MIT-licensed step for a cancel button: customers pick or write why they are leaving, then the cancel continues. Copy-paste snippets for Stripe and Paddle.
+- [**Cancellation Reason Sorter**](https://nar-vardanyan.github.io/frank-mcp/tools/cancellation-reason-sorter/): Paste churn or cancellation survey answers and group them into themes, with counts, examples and suggested follow-up interview questions. Free, no login, runs in the browser.
 
 # A/B Tests & Growth Hacking
 - [**Petit Hacks**](https://petithacks.com/): Acquisition, retention, & revenue hacks used by companies.
@@ -468,6 +475,7 @@ If you have another additional awesome free resource, please feel free to add it
 - [**The Lean LaunchPad**](https://www.udacity.com/course/how-to-build-a-startup--ep245): How to Build a Startup.
 - [**Mixergy**](https://mixergy.com/): Learn from proven entrepreneurs.
 - [**Hack Design**](https://hackdesign.org/): Receive a design lesson in your inbox each week.
+- [**Customer Research Glossary**](https://nar-vardanyan.github.io/frank-mcp/glossary/): Ten customer-research interview terms, including Jobs to be Done, The Mom Test, churn interviews, win-loss and leading questions, with examples and common mistakes.
 
 # Newsletters that Don't Suck
 - [**Email1K**](https://email1k.com/): A free 30 day course to double your email list.
