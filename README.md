@@ -204,6 +204,8 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Free Survey Creator**](https://freesurveycreator.com/): Create a survey. Get user feedback for free.
 - [**Batch**](https://batch.com/): The first-ever 100% free engagement platform for mobile apps. A fully fledged mobile engagement platform to execute CRM tactics over iOS, Android, and mobile websites.
 - [**Helprace**](https://helprace.com/): Customer service tool. Free for up to 3 agents for small support teams.
+- [**Cancel-Page Churn Survey Widget**](https://nar-vardanyan.github.io/frank-mcp/tools/churn-interview-widget/): A free, MIT-licensed step for a cancel button: customers pick or write why they are leaving, then the cancel continues. Copy-paste snippets for Stripe and Paddle.
+- [**Cancellation Reason Sorter**](https://nar-vardanyan.github.io/frank-mcp/tools/cancellation-reason-sorter/): Paste churn or cancellation survey answers and group them into themes, with counts, examples and suggested follow-up interview questions. Free, no login, runs in the browser.
 
 # A/B Tests & Growth Hacking
 - [**Petit Hacks**](https://petithacks.com/): Acquisition, retention, & revenue hacks used by companies.
@@ -470,6 +472,7 @@ If you have another additional awesome free resource, please feel free to add it
 - [**The Lean LaunchPad**](https://www.udacity.com/course/how-to-build-a-startup--ep245): How to Build a Startup.
 - [**Mixergy**](https://mixergy.com/): Learn from proven entrepreneurs.
 - [**Hack Design**](https://hackdesign.org/): Receive a design lesson in your inbox each week.
+- [**Customer Research Glossary**](https://nar-vardanyan.github.io/frank-mcp/glossary/): Ten customer-research interview terms, including Jobs to be Done, The Mom Test, churn interviews, win-loss and leading questions, with examples and common mistakes.
 
 # Newsletters that Don't Suck
 - [**Email1K**](https://email1k.com/): A free 30 day course to double your email list.
