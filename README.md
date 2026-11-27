@@ -39,6 +39,8 @@ If you have another additional awesome free resource, please feel free to add it
 - [**CompanyCraft**](https://www.companycraft.ai): Use AI to generate, analyze, research, and filter startup ideas. Free for most features.
 - [**Experiment Board**](https://www.leanstartupmachine.com/validationboard/): Test your startup idea without wasting time or money. Note: Requires a tweet to get it.
 - [**Skitch**](https://evernote.com/products/skitch): Your ideas become reality faster.
+- [**Mom Test Question Checker**](https://nar-vardanyan.github.io/frank-mcp/tools/mom-test-checker/): Check customer interview questions against The Mom Test principles and flag leading, hypothetical or compliment-seeking wording. Free, no login, runs in the browser.
+- [**JTBD Switch Interview Question Generator**](https://nar-vardanyan.github.io/frank-mcp/tools/jtbd-interview-question-generator/): Build a Jobs to Be Done switch interview guide, with probes tagged push, pull, anxiety or habit. Free, no login, runs in the browser.
 
 # Business / Project Name Generator
 - [**The Business Niches Generator**](https://www.nichegenerator.xyz/): Generate business niches rather than business ideas.
