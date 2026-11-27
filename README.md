@@ -443,9 +443,8 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Product Hunt**](https://www.producthunt.com/): Curation of the best new products, every day.
 - [**Angellist**](https://angel.co/): Where the world meets startups.
 - [**Beta List**](https://betalist.com/): Discover and get early access to tomorrow’s startups.
-- [**StartupLi.st**](https://startupli.st/): Find. Follow. Recommend startups.
+- [**SaaSCity**](https://saascity.io/): Interactive 3D SaaS and startup launch directory with a free listing tier and curated [free dofollow directories list](https://saascity.io/free-dofollow-directories).
 - [**Startups List**](https://www.startups-list.com/): Collections of the best startups in different places.
-- [**Erli Bird**](https://erlibird.com/): Where great new products are born.
 
 # Build Together
 - [**Assembly**](https://assembly.com/discover): Co-create new ideas no matter where they are.
