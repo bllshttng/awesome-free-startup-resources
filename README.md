@@ -29,11 +29,13 @@ If you have another additional awesome free resource, please feel free to add it
 - [**Wave**](https://www.waveapps.com): Free & easy accounting, invoicing and more.
 - [**Invoice.to**](https://invoice.to/): Free invoice generator.
 - [**Bonsai**](https://www.hellobonsai.com/): Invoices, online payments, expenses, and more.
+- [**Profit and Loss Statement Template**](https://profitandlossstatementtemplate.com/): Free P&L statement generator and downloadable Excel/PDF templates for small businesses.
 
 # Legal Docs
 - [**Kiss**](https://500.co/kiss/): Free legal docs for startup founders and investor, created by 500 Startups.
 - [**Docracy**](https://www.docracy.com): An open collection of free legal documents.
 - [**Shake**](https://www.shakelaw.com/): Create, sign and send legally binding agreements in seconds. Free for personal use.
+- [**Two Week Notice Template**](https://2weeknoticetemplate.com/): Free interactive resignation letter generator with instant copy and PDF export.
 
 # Idea Management
 - [**CompanyCraft**](https://www.companycraft.ai): Use AI to generate, analyze, research, and filter startup ideas. Free for most features.
@@ -115,6 +117,7 @@ If you have another additional awesome free resource, please feel free to add it
 - [**W3C validator**](https://validator.w3.org/): Easy-to-use markup validation service.
 - [**DebugBear Speed Test**](https://www.debugbear.com/test/website-speed): Test site speed and Core Web Vitals
 - [**RatedWithAI**](https://ratedwithai.com): Free AI-powered website accessibility checker — scans for WCAG 2.2 & ADA compliance issues with actionable fix suggestions.
+- [**AI Mention Tracking**](https://aimentiontracking.com/): Free resource and checker for monitoring brand visibility in AI search answers.
 
 # Accessibility Testing
 - [**RatedWithAI**](https://ratedwithai.com): Free accessibility scanner that checks websites for WCAG 2.2 AA compliance and ADA issues, with AI-generated fix suggestions.
